@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+  
+  <!-- Aqui declaro color para posibles modificaciones solo hacer un cambio aqui, y ver reflejado en todas las pantallas
+        de manera automatica -->
+  
+  <color name="cItsColor">#191970</color>
+  <color name="cBlanco">#fff</color>
+  <color name="cFondo">#eeeeee</color>
+  <color name="cNegro">#000</color>
+</resources>

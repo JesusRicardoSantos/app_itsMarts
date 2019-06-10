@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">app_itsMarts</string>
+    <string name="action_settings">Settings</string>
+  <!-- Etiquetas string necesarias para mostrar en interfaz grafica -->
+  <string name="Id_usuario">Id usuario</string>
+  <string name="Contrasena_usuario">Contraseña</string>
+  <string name="Contrasena_confirmar">Confirmar contraseña</string>
+  <string name="Iniciar_sesion"><u>Iniciar sesión</u></string>
+  <string name="Crear_cuenta">Crear cuenta</string>
+  <string name="Recordar_sesion">Mantener inicio de sesión</string>
+  <string name="Nombre">Nombre</string>
+  <string name="A_paterno">Apellido paterno</string>
+  <string name="A_materno">Apellido materno</string>
+  <string name="Telefono">Teléfono</string>
+  <string name="Cliente_sap">Cliente SAP</string>
+  <string name="Fecha_creacion">Fecha creación</string>
+  <string name="Nombre_fiscal">Nombre fiscal</string>
+  <string name="RFC">RFC</string>
+  <string name="Contacto">Contacto</string>
+  <string name="Referencia">Referencia</string>
+  <string name="Guardar">Guardar</string>
+  <string name="Operacion_exitosa">Guardado correctamente</string>
+  <string name="Opcion">Elige una opcion</string>
+
+  <string name="Informacion_basica">Información básica</string>
+  <string name="Datos_negocio">Datos del negocio</string>
+  <string name="Estado">Estado</string>
+  <string name="Ubicacion">Ubicación</string>
+  <string name="Usuario">Usuario</string>
+
+  <!-- Array de etiquetas string necesarias para mostrar en estados de la republica -->
+  <string name="Seleccion_edo">Selecciona algún estado de la república</string>
+  <string-array name="Estados">
+    <item>Aguascalientes</item>
+    <item>Baja California</item>
+    <item>Baja California Sur</item>
+    <item>Campeche</item>
+    <item>Coahuila de Zaragoza</item>
+    <item>Colima</item>
+    <item>Chiapas</item>
+    <item>Chihuahua</item>
+    <item>Distrito Federal</item>
+    <item>Durango</item>
+    <item>Guanajuato</item>
+    <item>Guerrero</item>
+    <item>Hidalgo</item>
+    <item>Jalisco</item>
+    <item>México</item>
+    <item>Michoacán de Ocampo	</item>
+    <item>Morelos</item>
+    <item>Nayarit</item>
+    <item>Nuevo León</item>
+    <item>Oaxaca</item>
+    <item>Puebla</item>
+    <item>Querétaro</item>
+    <item>Quintana Roo</item>
+    <item>San Luis Potosí</item>
+    <item>Sinaloa</item>
+    <item>Sonora</item>
+    <item>Tabasco</item>
+    <item>Tamaulipas</item>
+    <item>Tlaxcala</item>
+    <item>Veracruz de Ignacio de la Llave</item>
+    <item>Yucatán</item>
+    <item>Zacatecas</item>
+  </string-array>
+  
+  <!-- Mensajes de error -->
+  <string name="Error_validacion">Error, usuario y/o contraseña incorrectos</string>
+  <string name="Error_google_play_services">Error, este dispositivo no soporta Google Play Services</string>
+  <string name="Error_catch">Ups, algo ocurrio en la aplicacion, intenta despues o actualizala</string>
+
+  <!-- Mensajes del ws -->
+  <string name="IdCliente_repetido">Id cliente ya registrado, intente con otro</string>
+  <string name="NombreFiscal_repetido">Nombre fiscal ya registrado, intente con otro</string>
+  <string name="RFC_repetido">RFC ya registrado, intente con otro</string>
+  <string name="Cliente_no_encontrado">Cliente no encontrado</string>
+  <string name="Error_ws">Error en el WS</string>
+
+
+  <!-- Mensajes de succes -->
+  <string name="Operacion_exitosa">Operacion exitosa!</string>
+  
+  <!-- Campos vacios -->
+  <string name="Nombre_nulo">Complete el campo de nombre</string>
+  <string name="Apaterno_nulo">Complete el campo de apellido paterno </string>
+  <string name="Amaterno_nulo">Complete el campo de apellido materno</string>
+  <string name="Cliente_sap_nulo">Complete el campo de Cliente sap</string>
+  <string name="Nombre_fiscal_nulo">Complete el campo de Nombre fiscal</string>
+  <string name="RFC_nulo">Complete el campo del RFC</string>
+  <string name="Id_nulo">Complete el campo del Id de usuario </string>
+  <string name="Contrasena_nulo">Llene el campo de contraseña </string>
+  <string name="Extencion_RFC">RFC inválido, formato incorrecto, se esperaban 13 caracteres</string>
+  <string name="Extencion_Telefono">Número de teléfono no válido, formato incorrecto, se esperan 10 números</string>
+  <string name="Error_contrasenas_iguales">Las contraseñas no coinciden</string>
+
+  <string name="Dato_no_permitido">No se admite este tipo de dato</string>
+  
+  <!-- Google key -->
+  <string name="GoogleKey">AIzaSyBQRTv32evXzfSFEAPGa5GmDfDtGgeVXwM</string>
+  <string name="Ubicacion">Ud esta aqui</string>
+</resources>
